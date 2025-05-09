@@ -8,22 +8,30 @@ Accurate forecasting of solar irradiance is crucial for optimizing the performan
 The Jupyter Notebook `Solar_Irradiance.ipynb` implements a predictive model for solar irradiance.  
 It includes data preprocessing, feature engineering, model training, and evaluation.
 
-
 ## 🚀 How to Run
 
-To run the notebook:
+You can run the notebook locally or on [Google Colab](https://colab.research.google.com/):
+
+### Option 1: Run on Google Colab
+
+1. Open this notebook in Colab:
+   - Upload the notebook to your Google Drive or GitHub, then open it via [https://colab.research.google.com/](https://colab.research.google.com/)
+2. Make sure to upload or mount the necessary data files.
+3. Run the cells top to bottom.
+
+### Option 2: Run Locally
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/solar-irradiance-forecasting.git
+   git clone https://github.com/SudharShan13/Solar-Irradiance-Forecasting.git
    cd solar-irradiance-forecasting
    ```
 
 2. Open the notebook:
 
    ```bash
-   jupyter notebook COMPX523_Assignment_3.ipynb
+   jupyter notebook Solar_Irradiance.ipynb
    ```
 
 3. Run the cells sequentially to reproduce the results.
@@ -39,6 +47,4 @@ The notebook includes:
 ## 📌 Notes
 
 - Ensure all required Python packages are installed.
-- You can add a `requirements.txt` file to simplify environment setup.
-
 
