@@ -15,7 +15,7 @@ The dataset used for this project is not stored in the repository due to size li
 You can download it from Google Drive using the following link:  
 📎 [Download Dataset (270 MB)](https://drive.google.com/uc?export=download&id=1VXXW6aeRYPUHi8XepAXiAl97Wpkv9IuF)
 
-This link is configured for direct download access.
+
 
 ## 🚀 How to Run
 
@@ -52,11 +52,3 @@ The notebook includes:
 - Visualizations of features and predictions
 - Model evaluation metrics
 
-## 📌 Notes
-
-- Ensure all required Python packages are installed.
-- You can add a `requirements.txt` file to simplify environment setup.
-
-## 📝 License
-
-This project is for educational and research purposes only.
